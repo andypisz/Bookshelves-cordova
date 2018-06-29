@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Bookshelves",
+  "short_name": "Bookshelves",
+  "version": "com.soprasteria.bookshelves",
+  "description": "An app to keep the title, author and a picture of all your books.",
+  "author": "Andy",
+  "icons": [],
+  "start_url": "index.html"
+}
